@@ -1,0 +1,4 @@
+interface:
+  display_name: "Art Design Research Deck"
+  short_description: "Editorial research decks for art and design"
+  default_prompt: "Use $art-design-research-deck to develop an evidence-led editorial presentation from my research subject or references."
