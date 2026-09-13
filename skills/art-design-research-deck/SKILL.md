@@ -13,11 +13,13 @@ description: Research, create, critique, and revise editorial presentations for 
 - 把整稿当作编辑序列，允许空白、纯文字、尺度和密度变化。优先展示真实作品证据；把字体、caption、source 与页码纳入初始结构。
 - 按任务规模控制记录量，始终保留来源、事实与推断的区别。尊重用户语言、页数、风格和阶段停点。
 - 输出 PPTX 时保持文字、基本形状和图片对象可编辑；复杂作品保留为图像，不声称可逐笔编辑。
+- 留白不是省略分析，克制的是装饰而非论证。先确定阅读方式和页面角色；独立阅读稿的分析页须在画面上连接主张、可见证据与解释。
+- 将结构机制转译为页面动作；全稿应用前确定有限色卡、字体角色并验证代表页。修订时继承研究资产、保护有效页面，同步更新设计说明。
 
 ## 按任务阅读
 
 1. 建立或调整视觉方向时读 [设计原则](references/design-principles.md)。
-2. 开始完整项目或重构叙事时读 [研究工作流](references/research-deck-workflow.md)，选择 Reference-led 或 Subject-led，并确定记录规模。
+2. 开始制作或修订时读 [研究工作流](references/research-deck-workflow.md)，继承已有材料，确定阅读方式、修改范围与记录规模；新项目选择 Reference-led 或 Subject-led。
 3. 收集、引用或裁切图像时读 [图像与来源](references/image-and-source-handling.md)。
 4. 提取参考、定义设计系统或编排页面时读 [视觉系统与版式](references/visual-system-layout.md)。
 5. 构建前与交付评审时读 [QA 与 critique](references/qa-and-critique.md)。仅审阅现有 deck 时从此处开始，按发现的问题补读。
